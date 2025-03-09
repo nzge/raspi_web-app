@@ -1,0 +1,19 @@
+# Ignore the git-2.48.1 folder
+git-2.48.1/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build and temp files
+.next/
+package-lock.json
+next-env.d.ts
+
+# Ignore other config files or logs
+eslint.config.mjs
+next.config.ts
+postcss.config.mjs
+public/
+src/
+tsconfig.json
+v2.48.1.tar.gz
